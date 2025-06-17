@@ -1,6 +1,9 @@
 {
     "compilerOptions": {
-        "module": "commonjs"
+        "module": "commonjs",
+        "target": "es5",
+        "outDir": "../js",
+        "strict": true
     },
     "exclude": [
         "node_modules"
