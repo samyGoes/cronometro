@@ -1,7 +1,7 @@
 let dias = 0;
-let horas = 23;
-let minutos = 59;
-let segundos = 57;
+let horas = 0;
+let minutos = 0;
+let segundos = 0;
 
 function cronometro()
 {  
