@@ -1,8 +1,8 @@
 "use strict";
 var dias = 0;
-var horas = 23;
-var minutos = 59;
-var segundos = 57;
+var horas = 0;
+var minutos = 0;
+var segundos = 0;
 function cronometro() {
     document.querySelector("#box-dias").innerHTML = dias.toString();
     document.querySelector("#box-horas").innerHTML = horas.toString();
